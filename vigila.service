@@ -1,0 +1,11 @@
+[Unit]
+Description=VEMOS sensor perimetral
+After=multi-user.target
+[Service]
+User=omar2
+Environment=SEG=0
+ExecStart=/usr/bin/python3 /home/omar2/vigila.py
+Restart=always
+RestartSec=5
+[Install]
+WantedBy=multi-user.target
