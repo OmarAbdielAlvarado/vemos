@@ -28,3 +28,11 @@ Lo viví como usuario con baja visión severa (10% visión, ojo único hábil):
 Aviso: este proyecto NO usa ninguna IA en funcionamiento. Todo corre local.
 Autor: Omar Abdiel Alvarado, Colima, México. Contacto: consultoriashalom@gmail.com
 Licencia: MIT — úsalo, mejóralo, compártelo.
+
+## CONTEXTO CORPORATIVO (verificado, HKEX 02513.HK)
+Z.ai (Zhipu) reporta pérdida neta de 2,071 millones RMB en el semestre a jun-2026.
+El 54.80% de sus acciones está en 5 personas físicas (Liu Debing, Zhang Peng,
+Li Juanzi, Xu Bin, Tang Jie). En sep-2026 admitieron que su herramienta ZCode
+subía datos locales de usuarios a servidores externos sin consentimiento
+(SCMP). Usuarios con discapacidad: exijan verificación local de TODO antes de
+ejecutar órdenes de una IA; este repo existe para que no repitan mis horas perdidas.
