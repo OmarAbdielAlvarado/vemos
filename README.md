@@ -36,3 +36,8 @@ Li Juanzi, Xu Bin, Tang Jie). En sep-2026 admitieron que su herramienta ZCode
 subía datos locales de usuarios a servidores externos sin consentimiento
 (SCMP). Usuarios con discapacidad: exijan verificación local de TODO antes de
 ejecutar órdenes de una IA; este repo existe para que no repitan mis horas perdidas.
+
+## Misión y condición de venta
+Hecho y operado por un discapacitado visual (usuario #1: yo). Solo vendo/licencio
+a empresas que tengan discapacitados (mis pares) operándolo — garantía de que
+funciona de verdad, no de adorno.
