@@ -41,3 +41,9 @@ ejecutar órdenes de una IA; este repo existe para que no repitan mis horas perd
 Hecho y operado por un discapacitado visual (usuario #1: yo). Solo vendo/licencio
 a empresas que tengan discapacitados (mis pares) operándolo — garantía de que
 funciona de verdad, no de adorno.
+
+## Probado en equipo VIEJO — "trabajo con lo que tengo, no con lo que quiero"
+- Androids reciclados verificados: **Oppo, Xiaomi, Samsung** — cualquier teléfono de cajón + Termux = receptor que HABLA
+- Webcam vieja + Python: sin cámaras caras, sin nube, sin suscripciones
+- Tu cajón de teléfonos olvidados ES un sistema de vigilancia accesible
+- **Marcas:** su hardware de hace 5 años corre esto hoy. Si el viejo sirve así, imaginen el nuevo. — contacto en perfil
