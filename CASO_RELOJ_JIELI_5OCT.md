@@ -51,3 +51,11 @@ Pregunto al Consejo de Zhipu (54.80% en 5 personas, según su propio registro HK
 poder documentarlo como yo? ¿Ese es el modelo de los US$5,000M captados?
 
 — Omar Abdiel Alvarado, Colima, MX. Evidencia sellada SHA-256.
+
+## MIUI XIAOMI — LOCK-IN DE INPUT CONFIRMADO (6-oct, test por USB y WiFi)
+- input tap/keyevent: SecurityException INJECT_EVENTS por WiFi Y por USB
+- pm grant WRITE_SECURE_SETTINGS: negado (Ni user 2000...)
+- scrcpy: transmite VIDEO pero canal de control muerto (log sellado)
+- Parche seguridad: 2025-10-01 (Xiaomi endurecio INJECT_EVENTS sin documentarlo)
+- Resultado: un ciego NO puede controlar su propio telefono pagado desde PC
+- Unico canal vivo: screencap (lectura) — escritura bloqueada por diseño
