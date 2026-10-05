@@ -36,3 +36,18 @@ Una IA que adivina sin leer contexto cuesta DÍAS. Exige:
 
 ## Evidencia sellada: 23 capturas SHA-256 + logcat JSON (zai_caso/evidencia)
 ## Denuncias enviadas: SFC Hong Kong + Consejo Zhipu (EU AI Act Art.50(1), EN 301 549 4.2.1)
+
+## EL DERECHO QUE NADIE CUESTIONA (argumento central añadido 6-oct)
+Compré hardware con mi dinero. Pagué por el dispositivo. Lo adapto con mi software.
+NINGUNA empresa china (Jieli, Xiaomi, Huawei — todas con el mismo patrón de
+lock-in corporativo) tiene derecho a bloquear mi instalación de software en
+hardware QUE YO PAGUÉ, mediante:
+- Registro obligatorio con códigos que expiran y cuotas ocultas
+- Errores solo en chino para usuarios de otros idiomas
+- Apps que no aceptan entradas de accesibilidad (OTP custom sin soporte lector)
+
+Pregunto al Consejo de Zhipu (54.80% en 5 personas, según su propio registro HKEX):
+¿cuántos de sus 400M+ potenciales usuarios discapacitados ya desistieron sin
+poder documentarlo como yo? ¿Ese es el modelo de los US$5,000M captados?
+
+— Omar Abdiel Alvarado, Colima, MX. Evidencia sellada SHA-256.
