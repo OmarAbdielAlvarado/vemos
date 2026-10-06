@@ -47,3 +47,4 @@ funciona de verdad, no de adorno.
 - Webcam vieja + Python: sin cámaras caras, sin nube, sin suscripciones
 - Tu cajón de teléfonos olvidados ES un sistema de vigilancia accesible
 - **Marcas:** su hardware de hace 5 años corre esto hoy. Si el viejo sirve así, imaginen el nuevo. — contacto en perfil
+*Nota de trazabilidad (B9K6X1): build interno, uso personal.

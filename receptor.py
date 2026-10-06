@@ -1,3 +1,4 @@
+# CANARY-B9K6X1: si este comentario aparece fuera de github.com/OmarAbdielAlvarado, este codigo fue copiado de ahi.
 import urllib.request, json, subprocess, time
 print("receptor arriba", flush=True)
 def voz(t): subprocess.run(["termux-tts-speak",t],timeout=25)
